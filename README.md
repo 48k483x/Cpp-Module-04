@@ -1,2 +1,59 @@
-# Cpp-Module-04
-📚 C++ Module 04: Subtype polymorphism, abstract classes, interfaces
+# 🗂 Project Structure
+
+```
+cpp04/
+├── ex00/
+│   ├── Makefile
+│   ├── main.cpp
+│   ├── Animal.cpp
+│   ├── Animal.hpp
+│   ├── Dog.cpp
+│   ├── Dog.hpp
+│   ├── Cat.cpp
+│   └── Cat.hpp
+├── ex01/
+│   ├── Makefile
+│   ├── main.cpp
+│   ├── Animal.cpp
+│   ├── Animal.hpp
+│   ├── Dog.cpp
+│   ├── Dog.hpp
+│   ├── Cat.cpp
+│   ├── Cat.hpp
+│   ├── Brain.cpp
+│   └── Brain.hpp
+├── ex02/
+│   ├── Makefile
+│   ├── main.cpp
+│   ├── AAnimal.cpp
+│   ├── AAnimal.hpp
+│   ├── Dog.cpp
+│   ├── Dog.hpp
+│   ├── Cat.cpp
+│   ├── Cat.hpp
+│   ├── Brain.cpp
+│   └── Brain.hpp
+└── ex03/
+    ├── Makefile
+    ├── main.cpp
+    ├── AMateria.cpp
+    ├── AMateria.hpp
+    ├── Ice.cpp
+    ├── Ice.hpp
+    ├── Cure.cpp
+    ├── Cure.hpp
+    ├── ICharacter.hpp
+    ├── Character.cpp
+    ├── Character.hpp
+    ├── IMateriaSource.hpp
+    ├── MateriaSource.cpp
+    └── MateriaSource.hpp
+
+```
+
+# 🎯 Module Overview
+This module covers advanced OOP concepts in C++, including:
+
+* Subtype polymorphism
+* Interfaces (pure abstract classes)
+* Virtual destructors
